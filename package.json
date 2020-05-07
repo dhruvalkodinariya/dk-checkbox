@@ -1,0 +1,35 @@
+{
+  "name": "@dhruval/dk-checkbox",
+  "version": "1.0.0",
+  "description": "Material design checkbox polymer lit element supported",
+  "main": "dk-checkbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material-design",
+    "polymer",
+    "checkbox",
+    "lit-element"
+  ],
+  "author": "Dhruval Kodinariya",
+  "license": "ISC",
+  "dependencies": {
+    "@dhruval/dk-form-field": "^1.0.0",
+    "@dhruval/material-styles": "^1.1.0",
+    "@material/mwc-checkbox": "^0.15.0",
+    "lit-element": "^2.3.1"
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvalkodinariya/dk-checkbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhruvalkodinariya/dk-checkbox/issues"
+  },
+  "homepage": "https://github.com/dhruvalkodinariya/dk-checkbox#readme"
+}
